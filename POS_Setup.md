@@ -40,6 +40,7 @@ These steps will ensure all makerspace POS terminals will provide the same inter
  [Download](http://solutions.3m.com/wps/portal/3M/en_US/Electronics_NA/Electronics/Tools_Support/Support/) the Linux (Single Touch)(64-bit) Driver from 3M website
  
  Open a terminal and enter the following commands:
+ 
  `mkdir Documents/touchscreen_driver`
  
  `mv Downloads/MT7.14.4.bin64 Documents/touchscreen_driver`
