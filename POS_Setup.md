@@ -14,13 +14,13 @@ These POS terminals won't boot from a USB thumb drive, only have 2 USB 2.0 ports
 
 1. Use whatever tools are available to burn the ISO to a blank DVD.
 
-##Boot
+## Boot
 During the POS Boot up, there is a short window of time to choose [1. Boot]  [2. Setup]  [3. No]
 
 1. Press [1.Boot] 
 2. Choose the number of the device that corresponds to the USB Optical Drive
 
-##Install
+## Install
 Follow the standard guided installation:
 
 1. Wipe everything and use entire disk
@@ -30,13 +30,13 @@ Follow the standard guided installation:
 4. Hostname - make it machine specific ex: "laser-station"
 
 
-##Configure
+## Configure
 These steps will ensure all makerspace POS terminals will provide the same interface at each station
 
 1. Update the OS via either terminal or System > Administration > Software Updater
 2. Reboot
 
-###Touchscreen
+### Touchscreen
  [Download](http://solutions.3m.com/wps/portal/3M/en_US/Electronics_NA/Electronics/Tools_Support/Support/) the Linux (Single Touch)(64-bit) Driver from 3M website
  
  Open a terminal and enter the following commands:
@@ -70,13 +70,13 @@ Touch the screen like a child in wonderment
 
 Dont' close the terminal
 
-###Calibration
+### Calibration
 `sudo ./TwCalib`
 
 follow prompts on the screen to calibrate the touch functions
 
 
-###Look and Feel
+### Look and Feel
 Go to System > Preferences > Look and Feel > Mate Tweak
 
 Desktop Tab
