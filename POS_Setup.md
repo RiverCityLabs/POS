@@ -69,7 +69,7 @@ verify the service is running
 
 Touch the screen like a child in wonderment
 
-Dont' close the terminal
+Don't close the terminal yet... continue to calibration section
 
 ### Calibration
 `sudo ./TwCalib`
